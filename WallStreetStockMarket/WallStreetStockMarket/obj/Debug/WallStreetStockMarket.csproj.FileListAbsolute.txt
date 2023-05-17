@@ -1,0 +1,14 @@
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\bin\Debug\WallStreetStockMarket.exe.config
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\bin\Debug\WallStreetStockMarket.exe
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\bin\Debug\WallStreetStockMarket.pdb
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.csproj.AssemblyReference.cache
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.Properties.Resources.resources
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.csproj.GenerateResource.cache
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.csproj.CoreCompileInputs.cache
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.exe
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.pdb
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.frmRegister.resources
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.formLogin.resources
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.Game.resources
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.Profile.resources
+D:\ГПИ C#\Курсов проект\WallStreetStockMarket\WallStreetStockMarket\obj\Debug\WallStreetStockMarket.Highscores.resources
